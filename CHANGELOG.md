@@ -2,6 +2,13 @@
 
 ## Untagged
 
+## [6.1.1](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v6.1.0...v6.1.1) (2024-08-30)
+
+
+### Bug Fixes
+
+* Set `RAND()` as default for DB2's random function ([#1246](https://github.com/GoogleCloudPlatform/professional-services-data-validator/issues/1246)) ([d01a40b](https://github.com/GoogleCloudPlatform/professional-services-data-validator/commit/d01a40b14e5e090c1a99aa44fd8625fa8e515427))
+
 ## [6.1.0](https://github.com/GoogleCloudPlatform/professional-services-data-validator/compare/v6.0.0...v6.1.0) (2024-08-27)
 
 
